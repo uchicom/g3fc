@@ -5,7 +5,7 @@
 	<artifactId>g3fc</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-	<name>wjm</name>
+	<name>g3fc</name>
 	<description>Great 3 File Creator</description>
 	<url>https://uchicom.com/g3fc.htm</url>
 	<licenses>
